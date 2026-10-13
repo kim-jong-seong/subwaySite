@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kim-jong-seong.github.io/subwaySite/sitemap.xml
